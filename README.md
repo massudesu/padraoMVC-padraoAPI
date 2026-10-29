@@ -1,3 +1,6 @@
+# Nicolas Massuda
+# Vitor Alencar
+
 # Comparação entre CRUD MVC e Arquitetura de API
 
 ##  Sumário
